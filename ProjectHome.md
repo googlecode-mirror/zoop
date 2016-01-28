@@ -1,0 +1,6 @@
+# About #
+Zoop is a PHP framework used to help speed development of web applications.  The current stable (1.x) branch is located [here](http://zoopframework.com).  This is currently the development branch.  There will be one more major release of the 1.x branch (1.5).  After the 1.5 release we will start preparing a release of this branch and the new, stable, 2.0 branch of Zoop.
+
+This branch is a from the ground up reworking of the entire framework.  Many components have been rewritten from scratch, some have been audited, tweaked and moved over.  Because of this many applications written for the 1.x branch won't currently run on 2.0.  In order to ease the transition we will provide a compatibility layer that will allow the old applications to run on 2.0 or at least make the porting process easier.  We will also provide a legacy directory with all of the old Zoop 1.5 code so that applications will be able to transition over to the 2.0 components gradually.
+
+Please see the links at the right for more information.
